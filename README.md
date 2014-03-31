@@ -1,7 +1,7 @@
 # zlib Cookbook
 
-[![Build Status](https://travis-ci.org/americanhonors/chef-zlib.svg?branch=master)][build-status]
-[![Dependency Status](https://gemnasium.com/americanhonors/chef-zlib.svg)][dependency-status]
+[![Build Status](https://travis-ci.org/americanhonors-cookbooks/zlib.svg?branch=master)][build-status]
+[![Dependency Status](https://gemnasium.com/americanhonors-cookbooks/zlib.svg)][dependency-status]
 
 Installs [zlib][zlib].
 
@@ -68,7 +68,7 @@ Use the dev recipe if you need development headers for zlib.
 
 ## License & Authors
 
-* Author:: Tony Burns (<tony.burns@americanhonors.org>)
+* Author:: Tony Burns (<tony.burns@americanhonors-cookbooks.org>)
 
 ```text
 Copyright (c) 2014 Quad Learning, Inc.
@@ -112,8 +112,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[build-status]: https://travis-ci.org/americanhonors/chef-zlib
-[dependency-status]: https://gemnasium.com/americanhonors/chef-zlib
+[build-status]: https://travis-ci.org/americanhonors-cookbooks/zlib
+[dependency-status]: https://gemnasium.com/americanhonors-cookbooks/zlib
 [zlib]: http://www.zlib.net/
 [apt-cookbook]: https://github.com/opscode-cookbooks/apt
 [opscode-cookbooks]: https://github.com/opscode-cookbooks
